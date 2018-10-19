@@ -2,4 +2,4 @@
 
 ## Dependencies
 
-´´´npm install truffle -g´´´
+```npm install truffle -g```
